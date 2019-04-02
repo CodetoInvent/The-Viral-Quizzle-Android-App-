@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1043677401837",
+    "firebase_url": "https://myquizproject-9d032.firebaseio.com",
+    "project_id": "myquizproject-9d032",
+    "storage_bucket": "myquizproject-9d032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043677401837:android:3aa7f867bfb10419",
+        "android_client_info": {
+          "package_name": "com.dream.malik.theviralquizzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043677401837-r865lvb06dtk0bh0omm6q0fgbkd5uban.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dream.malik.theviralquizzle",
+            "certificate_hash": "bf8c0bb1360174b0de74ee0733fca7b9b6d32091"
+          }
+        },
+        {
+          "client_id": "1043677401837-bf2jstdg3lrdct1q9vucsaiqjtdrn3rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dream.malik.theviralquizzle",
+            "certificate_hash": "b99125553fcef771df13c86ded46bcb7c2e964eb"
+          }
+        },
+        {
+          "client_id": "1043677401837-i271bdbub5ofc73nsbes6l8sn9b0cjq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnp6HCGVwz7-nw8Y345F1rxLJNogf8-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043677401837-i271bdbub5ofc73nsbes6l8sn9b0cjq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043677401837:android:4d96edfae31b1cee",
+        "android_client_info": {
+          "package_name": "com.example.malik.theviralquizzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043677401837-kbm0lg5hu7p09de9630qsoghp3ebld66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malik.theviralquizzle",
+            "certificate_hash": "bf8c0bb1360174b0de74ee0733fca7b9b6d32091"
+          }
+        },
+        {
+          "client_id": "1043677401837-dmto008uvm590pjjkluqmtit5v1tl1b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malik.theviralquizzle",
+            "certificate_hash": "b99125553fcef771df13c86ded46bcb7c2e964eb"
+          }
+        },
+        {
+          "client_id": "1043677401837-i271bdbub5ofc73nsbes6l8sn9b0cjq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnp6HCGVwz7-nw8Y345F1rxLJNogf8-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043677401837-i271bdbub5ofc73nsbes6l8sn9b0cjq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

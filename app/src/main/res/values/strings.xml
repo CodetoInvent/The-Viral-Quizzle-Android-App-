@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">The Viral Quizzle</string>
+    <string name="todo">TODO</string>
+    <string name="log_out">log Out</string>
+    <string name="loading">loading....</string>
+    <string name="abdulmalik">Abdul Malik</string>
+    <string name="theviralquizzle_gmail_com">theviralquizzle@gmail.com</string>
+    <string name="TVQ">TVQ</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help</string>
+    <string name="more_apps">more apps</string>
+    <string name="leader_board">Leader Board</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="drawer_open">dop</string>
+    <string name="drawer_close">dcl</string>
+    <string name="feedback11">Feedback</string>
+    <string name="todoxx">TODO</string>
+    <string name="encourage_us">Encourage us</string>
+    <string name="communicate">Communicate</string>
+    <string name="Encourage">Encourage us</string>
+    <string name="the_viral_quizzle11">The Viral Quizzle</string>
+    <string name="email_content">Hey There, Take a look at the app developed by ABDUL MALIK.\n\n Here is the link to the app :\n\n </string>
+    <string name="last_content">\n\nSteps: click on the link and then click on install in playstore.</string>
+    <string name="link"><u>link_here</u></string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ranking">Ranking</string>
+    <string name="category">category</string>
+    <string name="category_name">Category Name</string>
+    <string name="play">PLAY</string>
+    <string name="o">0</string>
+    <string name="_1_10">1/10</string>
+    <string name="score_0">Score : 0</string>
+    <string name="answered_0_10">Answered : 0/10</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="answer_a">Answer A</string>
+    <string name="se">SCORE:  %1$d</string>
+    <string name="ee">ANSWERED: %1$d /%2$d</string>
+    <string name="d">%1$d</string>
+    <string name="dd">%1$d/ %2$d</string>
+    <string name="truee">true</string>
+    <string name="zero">0</string>
+    <string name="naam">NAME</string>
+    <string name="score">SCORE</string>
+    <string name="category_nameee">CATEGORY NAME</string>
+    <string name="chance">chance:</string>
+    <string name="leader_board0">Leader Board</string>
+    <string name="_3">3</string>
+    <string name="reset_highscore">Reset Highscore</string>
+    <string name="_5">5</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4360190987254380/1874178163</string>
+    <string name="lololo">3</string>
+    <string name="more_chance">more chance</string>
+
+</resources>

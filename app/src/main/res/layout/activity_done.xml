@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/done_back"
+
+    tools:context="com.dream.malik.theviralquizzle.Done">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="30dp"
+        android:padding="20dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:id="@+id/btnGroup"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTotalScores"
+                android:text="@string/score_0"
+                android:textSize="35sp"
+                android:textColor="@color/colorPrimary"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTotalQuestions"
+                android:text="@string/answered_0_10"
+                android:textSize="35sp"
+                android:textColor="@color/colorPrimary"
+                />
+            <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/doneProgressBar"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                />
+            <Button
+                android:id="@+id/btnTryAgain"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="14dp"
+
+                android:textColor="@color/colorPrimaryDark"
+                android:background="#FF1744"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/try_again"
+                android:textSize="30sp"
+                />
+            <TextView
+                android:id="@+id/highscore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="High Score:200"
+                android:textSize="30sp"
+                android:layout_marginTop="50dp"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

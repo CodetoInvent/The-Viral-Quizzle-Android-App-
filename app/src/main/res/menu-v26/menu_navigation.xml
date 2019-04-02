@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/main_menu"
+        >
+        <item
+            android:id="@+id/moreapps"
+            android:icon="@drawable/more"
+            android:title="@string/more_apps"
+            />
+
+        <item
+            android:id="@+id/leaderboard"
+            android:icon="@drawable/score"
+
+            android:title="@string/leader_board" />
+
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+
+        <item android:title="@string/communicate">
+
+<menu>
+
+    <item
+        android:id="@+id/feedback"
+
+        android:icon="@drawable/feedback"
+        android:title="@string/feedback11">
+
+    </item>
+</menu>
+        </item>
+        <item android:title="@string/Encourage">
+            <menu>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/share"
+
+                    android:title="@string/share" />
+            </menu>
+        </item>
+
+
+    <item
+        android:id="@+id/about_us"
+
+        android:icon="@drawable/about"
+        android:title="@string/about_us" />
+
+
+</menu>

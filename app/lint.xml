@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconExtension">
+        <ignore path="src/main/res/drawable/leaderbord.png" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/background_material_red.png" />
+        <ignore path="src/main/res/drawable/login_back.gif" />
+        <ignore path="src/main/res/drawable/materialback1.jpg" />
+        <ignore path="src/main/res/drawable/play_quiz_logo.png" />
+        <ignore path="src/main/res/drawable/play_quiz_logo.png" />
+    </issue>
+</lint>

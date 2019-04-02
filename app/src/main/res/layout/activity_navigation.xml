@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+
+    tools:context="com.dream.malik.theviralquizzle.NavigationActivity">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <include layout="@layout/home"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+
+
+
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+                <!-- You can add views that you want to appear on the
+                     collapsing toolbar here -->
+
+                <android.support.v7.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                    app:layout_collapseMode="pin"
+                    android:minHeight="56dp"
+                    app:layout_scrollFlags="scroll|enterAlways"/>
+
+
+
+
+
+        </android.support.design.widget.AppBarLayout>
+
+
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation_view"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_gravity="start"
+
+
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/menu_navigation"/>
+
+</android.support.v4.widget.DrawerLayout>
