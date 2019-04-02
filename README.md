@@ -1,5 +1,5 @@
 # The-Viral-Quizzle
-Its an android app which contain Quizzes of Different categories.
+Its an android app which contain Quizzes of Different categories.You need to Google sign-in and need internet connection to fetch the content(QUIZ) from the firebase database.
 This is my first project which i officially published on google play after testing 45+ projects as a learning part.
 i have used Firebase to manage this project https://firebase.google.com/
 
