@@ -1,6 +1,8 @@
 # The-Viral-Quizzle
 Its an android app which contain Quizzes of Different categories.
 This is my first project which i officially published on google play after testing 45+ projects as a learning part.
+i have used Firebase to manage this project https://firebase.google.com/
+
 click the link below to view it on google play:
 https://play.google.com/store/apps/details?id=com.dream.malik.theviralquizzle
 
