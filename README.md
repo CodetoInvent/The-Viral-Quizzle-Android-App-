@@ -24,7 +24,7 @@ https://play.google.com/store/apps/details?id=com.dream.malik.theviralquizzle
 </p>
 
 Extra info:
-I have started android development in 2017. Right now i have 7+ Android apps with over 50,000+ users it can be incremented by the time you are visiting the below link:
+I have started android development in 2018. Right now i have 7+ Android apps with over 2,00,000+ users it can be incremented by the time you are visiting the below link:
 https://play.google.com/store/apps/dev?id=4696999074000426000
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.java.malik.javaanim">
